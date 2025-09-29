@@ -1,0 +1,24 @@
+﻿@using MovieRatingSystem.Domain.Entities
+@model dynamic
+
+@{
+    ViewData["Title"] = "Favorites";
+}
+
+<h2>Favorites</h2>
+
+<div class="container">
+    @if (ViewBag.FavoriteItems != null && ((List<Media>)ViewBag.FavoriteItems).Count > 0)
+    {
+        <ul class="list-group">
+            @foreach (var item in ViewBag.FavoriteItems)
+            {
+                <li class="list-group-item">@item.Title</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>No items in your favorites.</p>
+    }
+</div>

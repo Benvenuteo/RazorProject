@@ -23,7 +23,7 @@ namespace MovieRatingSystem.Infrastructure.Repositories
         public async Task<List<Media>> GetByUserAndTypeAsync(string userId, ListType listType)
         {
             var mediaIds = await _context.UserLists
-                .Where(ul => ul.UserId == userId && ul.ListType == listType)
+                .Where(ul => ul.UserId == userId && (int)ul.ListType == (int)listType)
                 .Select(ul => ul.MediaId)
                 .ToListAsync();
 

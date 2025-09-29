@@ -3,6 +3,14 @@
     <form asp-action="Rate" method="post">
         <input type="hidden" name="id" value="@Model.Id" />
         <label>Rate (1-10): <input type="number" name="score" min="1" max="10" required /></label>
-        <button type="submit">
+        <button type="submit">Rate</button>
+    </form>
+    <form asp-action="AddToFavorites" method="post">
+        <input type="hidden" name="id" value="@Model.Id" />
+        <button type="submit">Add to Favorites</button>
+    </form>
+    <form asp-action="AddToWatchlist" method="post">
+        <input type="hidden" name="id" value="@Model.Id" />
+        <button type="submit">Add to Watchlist</button>
     </form>
 }

@@ -3,28 +3,168 @@
   "WorkspaceRootPath": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\controllers\\accountcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:controllers\\accountcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\tvshows\\_tvshowactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\tvshows\\_tvshowactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\movies\\_movieactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\movies\\_movieactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\tvshows\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\tvshows\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\infrastructure\\repositories\\userlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:infrastructure\\repositories\\userlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\application\\services\\useractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:application\\services\\useractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\domain\\enums\\listtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:domain\\enums\\listtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\infrastructure\\repositories\\iuserlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:infrastructure\\repositories\\iuserlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\user\\favorites.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\user\\favorites.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\user\\watchlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\user\\watchlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\application\\services\\mediaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:application\\services\\mediaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\domain\\entities\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:domain\\entities\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\domain\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:domain\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\domain\\entities\\tvshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:domain\\entities\\tvshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\domain\\entities\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:domain\\entities\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\models\\adminindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:models\\adminindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\admin\\addtvshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\admin\\addtvshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\admin\\addmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\admin\\addmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\controllers\\accountcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:controllers\\accountcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\application\\dtos\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:application\\dtos\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\application\\dtos\\authapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:application\\dtos\\authapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\application\\dtos\\authapirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:application\\dtos\\authapirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\tvshows\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\tvshows\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\application\\dtos\\authapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:application\\dtos\\authapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\infrastructure\\middleware\\jwtcookiesyncmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:infrastructure\\middleware\\jwtcookiesyncmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\application\\dtos\\logininput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:application\\dtos\\logininput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\views\\account\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:views\\account\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|c:\\projektygithub\\razorwebapplication\\movieratingsystem\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67790D2E-A251-4336-BA80-88B4D1B60335}|MovieRatingSystem.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +174,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,33 +198,514 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListType.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Domain\\Enums\\ListType.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\ListType.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Domain\\Enums\\ListType.cs",
+              "RelativeToolTip": "Domain\\Enums\\ListType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:14:03.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserList.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Domain\\Entities\\UserList.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\UserList.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Domain\\Entities\\UserList.cs",
+              "RelativeToolTip": "Domain\\Entities\\UserList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:11:32.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Favorites.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\User\\Favorites.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Favorites.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\User\\Favorites.cshtml",
+              "RelativeToolTip": "Views\\User\\Favorites.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T20:36:12.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABCwBoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:08:29.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T20:37:29.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Watchlist.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\User\\Watchlist.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Watchlist.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\User\\Watchlist.cshtml",
+              "RelativeToolTip": "Views\\User\\Watchlist.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T20:31:39.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\TvShows\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvShows\\Details.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\TvShows\\Details.cshtml",
+              "RelativeToolTip": "Views\\TvShows\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T17:34:07.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T19:16:56.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_TvShowActions.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\TvShows\\_TvShowActions.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvShows\\_TvShowActions.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\TvShows\\_TvShowActions.cshtml*",
+              "RelativeToolTip": "Views\\TvShows\\_TvShowActions.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T17:34:04.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_MovieActions.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Movies\\_MovieActions.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\_MovieActions.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Movies\\_MovieActions.cshtml",
+              "RelativeToolTip": "Views\\Movies\\_MovieActions.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T19:16:25.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserListRepository.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Infrastructure\\Repositories\\IUserListRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\IUserListRepository.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Infrastructure\\Repositories\\IUserListRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\IUserListRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:16:57.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MediaService.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Application\\Services\\MediaService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\MediaService.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Application\\Services\\MediaService.cs",
+              "RelativeToolTip": "Application\\Services\\MediaService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:18:25.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserActionService.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Application\\Services\\UserActionService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserActionService.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Application\\Services\\UserActionService.cs",
+              "RelativeToolTip": "Application\\Services\\UserActionService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:18:42.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserListRepository.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Infrastructure\\Repositories\\UserListRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserListRepository.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Infrastructure\\Repositories\\UserListRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserListRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:47:29.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Domain\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Movie.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Domain\\Entities\\Movie.cs",
+              "RelativeToolTip": "Domain\\Entities\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:35:30.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Domain\\Entities\\Rating.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Rating.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Domain\\Entities\\Rating.cs",
+              "RelativeToolTip": "Domain\\Entities\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:11:23.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Domain\\Entities\\Media.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Media.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Domain\\Entities\\Media.cs",
+              "RelativeToolTip": "Domain\\Entities\\Media.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:24:24.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwv1AAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:25:26.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:09:50.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T19:17:00.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T19:14:15.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwCEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T19:03:43.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuthApiRequest.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Application\\DTOs\\AuthApiRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\AuthApiRequest.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Application\\DTOs\\AuthApiRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\AuthApiRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:46:24.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TvShow.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Domain\\Entities\\TvShow.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\TvShow.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Domain\\Entities\\TvShow.cs",
+              "RelativeToolTip": "Domain\\Entities\\TvShow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:24:18.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminIndexViewModel.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Models\\AdminIndexViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AdminIndexViewModel.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Models\\AdminIndexViewModel.cs",
+              "RelativeToolTip": "Models\\AdminIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:30:04.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\TvShows\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvShows\\Index.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\TvShows\\Index.cshtml",
+              "RelativeToolTip": "Views\\TvShows\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T17:34:13.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
               "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T13:26:37.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 24,
+              "Title": "AddMovie.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Admin\\AddMovie.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AddMovie.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Admin\\AddMovie.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AddMovie.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T19:23:03.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddTvShow.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Admin\\AddTvShow.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AddTvShow.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Admin\\AddTvShow.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AddTvShow.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T19:23:41.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JwtCookieSyncMiddleware.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Infrastructure\\Middleware\\JwtCookieSyncMiddleware.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Middleware\\JwtCookieSyncMiddleware.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Infrastructure\\Middleware\\JwtCookieSyncMiddleware.cs",
+              "RelativeToolTip": "Infrastructure\\Middleware\\JwtCookieSyncMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:26:29.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T17:26:15.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T17:26:07.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthResult.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Application\\DTOs\\AuthResult.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\AuthResult.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Application\\DTOs\\AuthResult.cs",
+              "RelativeToolTip": "Application\\DTOs\\AuthResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:46:26.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "AccountContoller.cs",
               "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Controllers\\AccountContoller.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountContoller.cs",
               "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Controllers\\AccountContoller.cs",
               "RelativeToolTip": "Controllers\\AccountContoller.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAowFsAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA5wFgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T13:20:08.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 29,
+              "Title": "AuthApiResponse.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Application\\DTOs\\AuthApiResponse.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\AuthApiResponse.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Application\\DTOs\\AuthApiResponse.cs",
+              "RelativeToolTip": "Application\\DTOs\\AuthApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T13:15:32.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv0kAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T17:24:50.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Account\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Account\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Account\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T17:23:38.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginInput.cs",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Application\\DTOs\\LoginInput.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LoginInput.cs",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Application\\DTOs\\LoginInput.cs",
+              "RelativeToolTip": "Application\\DTOs\\LoginInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:22:55.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T13:15:54.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Application\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
@@ -92,12 +713,11 @@
               "RelativeToolTip": "Application\\Services\\AuthService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T13:19:36.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T13:19:36.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 39,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -106,32 +726,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T13:18:32.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-27T13:15:54.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthApiResponse.cs",
-              "DocumentMoniker": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Application\\DTOs\\AuthApiResponse.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\AuthApiResponse.cs",
-              "ToolTip": "C:\\ProjektyGitHub\\RazorWebApplication\\MovieRatingSystem\\Application\\DTOs\\AuthApiResponse.cs",
-              "RelativeToolTip": "Application\\DTOs\\AuthApiResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T13:15:32.791Z",
               "EditorCaption": ""
             }
           ]

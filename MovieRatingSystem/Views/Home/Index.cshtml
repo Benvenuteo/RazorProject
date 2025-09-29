@@ -13,6 +13,13 @@
         }
         <a asp-controller="Movies" asp-action="Index" class="btn btn-info">View Movies</a>
         <a asp-controller="TvShows" asp-action="Index" class="btn btn-info">View TV Shows</a>
+
+        @if (!User.IsInRole("Admin"))
+        {
+            <a asp-controller="User" asp-action="Favorites" class="btn btn-info">View Favorites</a>
+            <a asp-controller="User" asp-action="WatchList" class="btn btn-info">View WatchList</a>
+        }
+
     }
 
 </div>

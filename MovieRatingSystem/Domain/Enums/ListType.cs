@@ -2,7 +2,7 @@
 {
     public enum ListType
     {
-        Favorites,
-        Watchlist
+        Favorites = 0,
+        Watchlist = 1
     }
 }

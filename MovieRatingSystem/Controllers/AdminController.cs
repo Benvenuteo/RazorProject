@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using MovieRatingSystem.Application.Services;
 using MovieRatingSystem.Domain.Entities;
+using MovieRatingSystem.Models;
 
 namespace MovieRatingSystem.Controllers
 {
@@ -19,9 +20,11 @@ namespace MovieRatingSystem.Controllers
         {
             var movies = await _mediaService.GetAllMoviesAsync();
             var tvShows = await _mediaService.GetAllTvShowsAsync();
-            ViewBag.Movies = movies;
-            ViewBag.TvShows = tvShows;
-            return View();
+            return View(new AdminIndexViewModel
+            {
+                Movies = movies,
+                TvShows = tvShows
+            });
         }
 
         public IActionResult AddMovie() => View();

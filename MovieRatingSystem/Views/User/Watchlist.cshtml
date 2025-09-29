@@ -1,0 +1,24 @@
+﻿@using MovieRatingSystem.Domain.Entities
+@model dynamic
+
+@{
+    ViewData["Title"] = "Watchlist";
+}
+
+<h2>Watchlist</h2>
+
+<div class="container">
+    @if (ViewBag.WatchlistItems != null && ((List<Media>)ViewBag.WatchlistItems).Count > 0)
+    {
+        <ul class="list-group">
+            @foreach (var item in ViewBag.WatchlistItems)
+            {
+                <li class="list-group-item">@item.Title</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>No items in your watchlist.</p>
+    }
+</div>

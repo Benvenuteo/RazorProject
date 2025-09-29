@@ -72,6 +72,7 @@ public class AccountController : Controller
     {
         ViewData["ReturnUrl"] = returnUrl;
 
+        // Ręczna walidacja Email i Password
         if (!string.IsNullOrEmpty(model.Email) && !string.IsNullOrEmpty(model.Password))
         {
             var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
@@ -82,6 +83,7 @@ public class AccountController : Controller
                 TempData["SuccessMessage"] = "Zarejestrowano pomyślnie!";
                 return RedirectToAction("Login", new { returnUrl });
             }
+            // Przekazanie szczegółowych błędów do widoku
             foreach (var error in result.Errors)
             {
                 ModelState.AddModelError("", error.Description);

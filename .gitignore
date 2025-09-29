@@ -52,3 +52,9 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/MovieRatingSystem/movieRating.db
+/MovieRatingSystem/.vs/MovieRatingSystem/FileContentIndex/6d50ba69-6e80-447c-8f2b-54613559c30a.vsidx
+/MovieRatingSystem/.vs/MovieRatingSystem/FileContentIndex/75d410c2-7914-47cc-b26b-8998b98b1944.vsidx
+/MovieRatingSystem/.vs/MovieRatingSystem/FileContentIndex/a042a3e3-1bf1-4629-8c5f-76db2297060a.vsidx
+/MovieRatingSystem/.vs/MovieRatingSystem/FileContentIndex/c7776102-7906-4d19-a21c-b7de68c65b67.vsidx
+/MovieRatingSystem/.vs/MovieRatingSystem/FileContentIndex/ea7d4f0c-08bb-4186-abdf-610177120927.vsidx

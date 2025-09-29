@@ -1,0 +1,14 @@
+﻿@using MovieRatingSystem.Domain.Entities
+@model List<TvShow>
+
+@{
+    ViewData["Title"] = "TV Shows";
+}
+
+<h2>TV Shows</h2>
+<ul>
+    @foreach (var tvShow in Model)
+    {
+        <li><a asp-action="Details" asp-route-id="@tvShow.Id">@tvShow.Title</a></li>
+    }
+</ul>

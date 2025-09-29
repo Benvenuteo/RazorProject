@@ -1,0 +1,13 @@
+﻿@using MovieRatingSystem.Domain.Entities
+@model TvShow
+
+@{
+    ViewData["Title"] = Model.Title;
+}
+
+<h2>@Model.Title</h2>
+<p>Seasons: @Model.Seasons</p>
+
+@await Html.PartialAsync("_TvShowActions", Model)
+
+<a asp-action="Index">Back to List</a>
